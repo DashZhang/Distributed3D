@@ -26,4 +26,4 @@ Software
 License
 ---
 
-    Distributed3D (both software and hardware drawings) is a free released under GPL v2.
+    Distributed3D (both software and hardware drawings) is a free release under GPL v2.
