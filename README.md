@@ -1,9 +1,9 @@
 Distributed3D
 =============
 
-A distributed 3d laser scanner system powered by NI LabVIEW 2013
+A distributed 3d laser scanner system
 
-Hardware
+BOM
 ---
 
     n   Arduino DUE Board
@@ -15,9 +15,14 @@ Hardware
     2*n Li-Po battery
     1   wireless router
     
-    *n : number of agents
-  
-Software
+    *n : number of units
+
+Measurement Setup
+---
+
+<img src="./Model/Rendering/002.PNG" alt="drawing" height="400"/>
+
+Runtime environment
 ---
 
     Arduino IDE 1.5.6
