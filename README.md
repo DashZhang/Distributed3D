@@ -22,6 +22,16 @@ Measurement Setup
 
 <img src="./Model/Rendering/002.PNG" alt="drawing" height="400"/>
 
+Assembly
+---
+
+<img src="./Assembly.png" alt="drawing" height="400"/>
+
+GUI
+---
+
+<img src="./GUI.png" alt="drawing" height="400"/>
+
 Runtime environment
 ---
 
