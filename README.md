@@ -45,11 +45,11 @@ Here are a few show cases of how versatile the slave unit can be. Thanks to the 
 
 Spiral | Vertical
 ---|---
-![manual](./gif/spiral.gif) | ![manual](./gif/vertical.gif)
+![manual](./images/spiral.gif) | ![manual](./images/vertical.gif)
 
 Manual | Partial
 --- | ---
-![manual](./gif/manual.gif) | ![vetical](./gif/partial.gif)
+![manual](./images/manual.gif) | ![vetical](./images/partial.gif)
 
 BOM
 ---
